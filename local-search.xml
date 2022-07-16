@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>Java入门</title>
+    <link href="/2022/07/16/Java%E5%85%A5%E9%97%A8/"/>
+    <url>/2022/07/16/Java%E5%85%A5%E9%97%A8/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Java入门"><a href="#Java入门" class="headerlink" title="Java入门"></a>Java入门</h1><h2 id="Java特性与优势"><a href="#Java特性与优势" class="headerlink" title="Java特性与优势"></a>Java特性与优势</h2><ul><li>简单</li><li>面向对象：一切皆对象</li><li>可移植性</li><li>分布式</li><li>动态性:反射</li><li>多线程</li></ul><h2 id="Java三大版本"><a href="#Java三大版本" class="headerlink" title="Java三大版本"></a>Java三大版本</h2><blockquote><p>Write Once 、Run Anywhere</p></blockquote><ul><li>JavaSE：标准版（桌面程序，控制台开发·······）</li><li>JavaME：嵌入式开发（手机，小家电······）</li><li>JavaEE：E企业级开发（web端，服务器开发······）</li></ul><p><img src="https://img-blog.csdnimg.cn/26be2e37f4544861a5eda25e03bc7ab3.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5p6X55SzLg==,size_20,color_FFFFFF,t_70,g_se,x_16" alt="Java三大版本"></p><h2 id="Java开发环境搭建"><a href="#Java开发环境搭建" class="headerlink" title="Java开发环境搭建"></a>Java开发环境搭建</h2><h3 id="卸载JDK"><a href="#卸载JDK" class="headerlink" title="卸载JDK"></a>卸载JDK</h3><p><strong>补：</strong>打开<strong>我的电脑</strong>-&gt;<strong>属性</strong>-&gt;<strong>高级系统设置</strong>-&gt;<strong>环境变量</strong>-&gt; <strong>Java_HOME的地方</strong> 就是<strong>Java的存放的地方</strong></p><ol><li>删除java的安装目录</li><li>删除Java_HOME</li><li>删除path下关于java的目录</li><li>查看java—version</li></ol><h3 id="安装JDK"><a href="#安装JDK" class="headerlink" title="安装JDK"></a>安装JDK</h3><ol><li><p>查找JDK8</p></li><li><p>同意协议</p></li><li><p>下载对应版本</p></li><li><p>安装JDK</p></li><li><p><strong>记住安装路径</strong></p></li><li><p>配置环境变量</p><ul><li><p>我的电脑-&gt;属性</p></li><li><p>环境变量-&gt;JAVA-HOME</p></li><li><p>配置path变量</p></li></ul></li><li><p>测试JDK是否安装成功</p><ul><li>打开cmd</li><li>Java -version</li></ul></li></ol><h2 id="安装notepad"><a href="#安装notepad" class="headerlink" title="安装notepad++"></a>安装notepad++</h2><p> <a href="https://notepad-plus-plus.org/downloads/">notepad++下载地址</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>java</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Markdown学习</title>
     <link href="/2022/07/16/Markdown%E5%AD%A6%E4%B9%A0/"/>
     <url>/2022/07/16/Markdown%E5%AD%A6%E4%B9%A0/</url>
